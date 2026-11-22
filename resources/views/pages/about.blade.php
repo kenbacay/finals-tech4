@@ -12,7 +12,7 @@
         <div class="process-list">
             <div><strong>01</strong><span><b>Routes</b><br>Connect URLs such as <code>/customers</code> to controller actions.</span></div>
             <div><strong>02</strong><span><b>Controllers</b><br>Store the temporary PHP arrays and select the correct view.</span></div>
-            <div><strong>03</strong><span><b>Blade views</b><br>Display the pages and loop through records using <code>@@foreach</code>.</span></div>
+            <div><strong>03</strong><span><b>Blade views</b><br>Display the pages and loop through records using <code>&#64;foreach</code>.</span></div>
         </div>
     </section>
 @endsection
